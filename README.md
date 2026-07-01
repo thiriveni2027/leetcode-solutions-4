@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2574-left-and-right-sum-differences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
