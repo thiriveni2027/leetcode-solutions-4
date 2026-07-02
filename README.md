@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3467-transform-array-by-parity) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
