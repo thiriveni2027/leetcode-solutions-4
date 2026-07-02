@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3701-compute-alternating-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3925-concatenate-array-with-reverse) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
