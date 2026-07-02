@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
