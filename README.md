@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
