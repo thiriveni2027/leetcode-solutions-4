@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
