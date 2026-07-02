@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
