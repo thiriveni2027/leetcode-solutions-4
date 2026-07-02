@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1446-consecutive-characters) |
 | [2942-find-words-containing-character](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2942-find-words-containing-character) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 <!---LeetCode Topics End-->
