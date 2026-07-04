@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0867-transpose-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0867-transpose-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
