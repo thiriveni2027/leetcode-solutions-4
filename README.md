@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
