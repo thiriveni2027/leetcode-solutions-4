@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
+| [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0867-transpose-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0242-valid-anagram) |
+| [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
