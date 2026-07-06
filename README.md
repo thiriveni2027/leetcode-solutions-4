@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0876-middle-of-the-linked-list) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
 |  |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
