@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0242-valid-anagram) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3668-restore-finishing-order) |
 ## Sorting
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
 |  |
