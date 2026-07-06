@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0867-transpose-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0242-valid-anagram) |
 | [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
+| [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -153,5 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0142-linked-list-cycle-ii) |
+| [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
