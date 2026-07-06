@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2942-find-words-containing-character) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3838-weighted-word-mapping](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3701-compute-alternating-sum](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
