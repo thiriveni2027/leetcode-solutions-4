@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0234-palindrome-linked-list) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Monotonic Stack
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0707-design-linked-list) |
 ## Hash Function
@@ -185,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
