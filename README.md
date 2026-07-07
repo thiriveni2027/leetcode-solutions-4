@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0876-middle-of-the-linked-list) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
