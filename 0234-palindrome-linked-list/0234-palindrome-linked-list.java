@@ -1,39 +1,40 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-
-        if (head == null || head.next == null)
-            return true;
-
-        ListNode slow = head;
-        ListNode fast = head;
-
-        // Find middle
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        ListNode mid=middleNode(head);
+        ListNode mid_next=mid.next;
+        mid.next=null;
+        ListNode temp2=reverseList(mid_next);
+        ListNode temp1=head;
+        while(temp1 != null && temp2 != null){
+            if(temp1.val != temp2.val){
+            return false;
+            }
+            temp1=temp1.next;
+            temp2=temp2.next;
         }
-
-        // Reverse second half
-        ListNode prev = null;
-        while (slow != null) {
-            ListNode next = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = next;
-        }
-
-        // Compare both halves
-        ListNode first = head;
-        ListNode second = prev;
-
-        while (second != null) {
-            if (first.val != second.val)
-                return false;
-
-            first = first.next;
-            second = second.next;
-        }
-
         return true;
+        
+    }
+
+    public ListNode middleNode(ListNode head) {
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
+    }
+
+    public ListNode reverseList(ListNode head) {
+        ListNode h2=null;//step-1
+        ListNode temp=head;//step-2
+        while(temp!=null){
+            head=head.next; //moving head to next node
+            temp.next=h2;//head node become null using temp
+            h2=temp;
+            temp=head;
+        }
+        return h2;
     }
 }
