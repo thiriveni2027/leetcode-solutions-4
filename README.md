@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0867-transpose-matrix](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0904-fruit-into-baskets) |
 | [1732-find-the-highest-altitude](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/1929-concatenation-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0904-fruit-into-baskets](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3668-restore-finishing-order) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
