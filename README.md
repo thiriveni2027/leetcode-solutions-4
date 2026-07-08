@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 | [2652-sum-multiples](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2652-sum-multiples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0342-power-of-four) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Linked List
 |  |
