@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0189-rotate-array) |
+| [0384-shuffle-an-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0384-shuffle-an-array) |
 | [0575-distribute-candies](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0384-shuffle-an-array) |
 | [0509-fibonacci-number](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0779-k-th-symbol-in-grammar) |
 | [2652-sum-multiples](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/2652-sum-multiples) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0232-implement-queue-using-stacks) |
+| [0384-shuffle-an-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0384-shuffle-an-array) |
 | [0706-design-hashmap](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0707-design-linked-list) |
 ## Hash Function
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0222-count-complete-tree-nodes) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/thiriveni2027/leetcode-solutions-4/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
